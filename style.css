@@ -1,0 +1,63 @@
+header {
+    display: block;
+    padding: 20px;
+    text-align: center;
+    background-color: #03adfc;
+  }
+   
+  body{
+    text-align: center;
+    background-color:#03adfc;
+  }
+  nav {
+    display: block;
+    padding: 20px;
+    text-align: center;
+    background-color: #03adfc;
+  }
+  
+  nav li {
+    display: inline;
+    padding: 0 10px;
+    list-style-type: none;
+    border-left: 1px solid white
+    }
+  nav li > a {
+    color: #fff;
+    text-decoration: none; 
+    font-family: Helvetica;
+  }
+  nav li:first-child {
+    border-left: none
+  }
+  
+  div  {
+    color: #fff;
+    font-size: 40px;
+  font-family: Comic Sans MS;
+  }
+
+  
+  #quemsomos {
+    font-size: 40px;
+    color: #ffffff;
+    font-family: Comic Sans MS;
+    text-align: center;
+    font-variant: small-caps;
+  }
+  
+  article p {
+    font-size: 30px;
+    font-family: Lucida Console;
+    text-align: center;
+    text-align: center;
+    color: rgb(253, 253, 253);
+    
+  }
+  
+  footer {
+    font-size: 15px;
+    font-family: helvetica;
+    text-align: center;
+    color:#03adfc;
+    }
